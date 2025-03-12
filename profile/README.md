@@ -1,16 +1,22 @@
-# Vertex Studios Organization
+# Vertex Studios
 
-Welcome to **Vertex Studios** – a forward-thinking game development studio dedicated to creating interactive and immersive experiences. This repository serves as the central hub for our organization, where new developers can find everything they need to get started and contribute to our exciting projects.
+Welcome to **Vertex Studios!** We’re thrilled you’ve found our official GitHub organization. Here, you’ll discover our passion for creating interactive and immersive games, as well as the collaborative spirit that drives our team.
 
 ## About Us
 
-At Vertex Studios, our team of passionate developers, artists, and designers work together to build innovative games and interactive experiences. We pride ourselves on creativity, collaboration, and technical excellence. Our mission is to push the boundaries of gaming while delivering engaging and memorable experiences.
+At Vertex Studios, we believe in the power of games to connect people, spark creativity, and push the boundaries of interactive entertainment. Our diverse team of developers, artists, and designers work together to craft unforgettable experiences for players around the world
 
-## Getting Started
+## For New Team Members
 
-This guide is designed to help onboard new developers quickly:
+If you’ve just joined Vertex Studios—welcome aboard! Here’s some knowledge to know:
+* **Internal Docs:** Each repo should have documentation linked in the end of its README.
+* **Team Communication:** Join our Discord meeting every friday for our weekly meetings, aswell as messages in text channels throughout the week.
+* **Mentorship & Support:** Don’t be afraid to ask questions. Our experienced team members are here to help you navigate codebases, tools, and best practices.
 
-1. **Clone the Repositories:**  
-   Browse our [GitHub organization](https://github.com/Vertex-Studios) and select a repository that interests you. Then, clone it locally using:
-   ```bash
-   git clone https://github.com/Vertex-Studios/REPO_NAME.git
+
+
+## Stay Connected
+* Website: [nathanceci.com](https://nathanceci.com)
+* Email: [vertexdevelopment@gmail.com](vertexdevelopment@gmail.com)
+
+Thank you for visiting Vertex Studios! We can’t wait to see what we’ll create together. If you have any questions or ideas, feel free to open an issue or reach out directly. Happy coding and game developing!
