@@ -17,6 +17,6 @@ If you’ve just joined Vertex Studios—welcome aboard! Here’s some knowledge
 
 ## Stay Connected
 * Website: [nathanceci.com](https://nathanceci.com)
-* Email: [vertexdevelopment@gmail.com](vertexdevelopment@gmail.com)
+* Email: [vertexdevelopment@gmail.com](mailto:vertexdevelopment@gmail.com)
 
 Thank you for visiting Vertex Studios! We can’t wait to see what we’ll create together. If you have any questions or ideas, feel free to open an issue or reach out directly. Happy coding and game developing!
