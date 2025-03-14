@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathan-ceci)
 [![Discord](https://img.shields.io/badge/Dev%20Server-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/fQ9cKkBB8k)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:VertexDevelopment@gmail.com)
-[![Our Site](https://img.shields.io/badge/Our%20Site-8B0000?style=flat-square&logo=google-chrome&logoColor=white)](https://nathanceci.com)
+[![Our Site](https://img.shields.io/badge/Our%20Site-CD1C18?style=flat-square&logo=google-chrome&logoColor=white)](https://nathanceci.com)
 
 ---
 
