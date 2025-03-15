@@ -5,7 +5,7 @@
 [![Discord](https://img.shields.io/badge/Dev%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fQ9cKkBB8k)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vertexgamingstudio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:VertexDevelopment@gmail.com)
-[![Our Site](https://img.shields.io/badge/Our%20Site-CD1C18?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nathanceci.com)
+[![Our Site](https://img.shields.io/badge/Our%20Site-CD1C18?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vertexstudio.ca)
 
 ---
 
@@ -53,7 +53,7 @@ If you’ve just joined Vertex Studios—welcome aboard! Here’s some important
   <a href="mailto:VertexDevelopment@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
   </a>&nbsp;&nbsp;
-  <a href="https://nathanceci.com">
-    <img src="https://img.shields.io/badge/Our%20Site-CD1C18?style=flat-square&logo=google-chrome&logoColor=white" alt="Nathanceci.com">
+  <a href="https://vertexstudio.ca">
+    <img src="https://img.shields.io/badge/Our%20Site-CD1C18?style=flat-square&logo=google-chrome&logoColor=white" alt="vertexstudio.ca">
   </a>&nbsp;&nbsp;
 </p>
